@@ -1,2 +1,5 @@
 this is the new file on the pushgit
+
+add another file to the folder and commit it.
+add another file to the folder and commit it.
 add another file to the folder and commit it.
